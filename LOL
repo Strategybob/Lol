@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>How are you doing?</title>
+    <meta charset="utf-8">
+    <style>
+      h1{
+      font-family: cursive;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello</h1>
+  </body>
+</html>
